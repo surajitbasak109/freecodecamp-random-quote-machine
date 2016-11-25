@@ -1,0 +1,252 @@
+[
+	{
+		"id": 1,
+		"quote": "Java is to JavaScript what Car is to Carpet.",
+		"author": "Chris Heilmann"
+	},
+	{
+		"id": 2,
+		"quote": "Its hard enough to find an error in your code when youre looking for it; its even harder when youve assumed your code is error-free.",
+		"author": "Steve McConnell"
+	},
+	{
+		"id": 3,
+		"quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+		"author": "Edsger Dijkstra"
+	},
+	{
+		"id": 4,
+		"quote": "Rules of Optimization:\nRule 1: Don't do it.\nRule 2 (for experts only): Don't do it yet. ",
+		"author": "Michael A. Jackson"
+	},
+	{
+		"id": 5,
+		"quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+		"author": "Edward V Berard"
+	},
+	{
+		"id": 6,
+		"quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+		"author": "Brian Kernighan"
+	},
+	{
+		"id": 7,
+		"quote": "t's not at all important to get it right the first time. It's vitally important to get it right the last time.",
+		"author": "Andrew Hunt and David Thomas"
+	},
+	{
+		"id": 8,
+		"quote": "First, solve the problem. Then, write the code.",
+		"author": "John Johnson"
+	},
+	{
+		"id": 9,
+		"quote": "Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.",
+		"author": "Stan Kelly-Bootle"
+	},
+	{
+		"id": 10,
+		"quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+		"author": "Martin Fowler"
+	},
+	{
+		"id": 11,
+		"quote": "Linux is only free if your time has no value.",
+		"author": "Jamie Zawinski"
+	},
+	{
+		"id": 12,
+		"quote": "Beware of bugs in the above code; I have only proved it correct, not tried it.",
+		"author": "Donald Knuth"
+	},
+	{
+		"id": 13,
+		"quote": "There is not now, nor has there ever been, nor will there ever be, any programming language in which it is the least bit difficult to write bad code.",
+		"author": "Flon's Law"
+	},
+	{
+		"id": 14,
+		"quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time. ",
+		"author": "Tom Cargill"
+	},
+	{
+		"id": 15,
+		"quote": "Good code is its own best documentation. As you're about to add a comment, ask yourself, \"How can I improve the code so that this comment isn't needed?\" Improve the code and then document it to make it even clearer. ",
+		"author": "Steve McConnell"
+	},
+	{
+		"id": 16,
+		"quote": "Programs must be written for people to read, and only incidentally for machines to execute. ",
+		"author": "Abelson / Sussman"
+	},
+	{
+		"id": 17,
+		"quote": "Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves. ”",
+		"author": "Alan Kay"
+	},
+	{
+		"id": 18,
+		"quote": "Programming can be fun, so can cryptography; however they should not be combined. ",
+		"author": "Kreitzberg and Shneiderman"
+	},
+	{
+		"id": 19,
+		"quote": "Copy and paste is a design error. ",
+		"author": "David Parnas"
+	},
+	{
+		"id": 20,
+		"quote": "Before software can be reusable it first has to be usable. ",
+		"author": "Ralph Johnson"
+	},
+	{
+		"id": 21,
+		"quote": "Without requirements or design, programming is the art of adding bugs to an empty text file. ",
+		"author": "Louis Srygley"
+	},
+	{
+		"id": 22,
+		"quote": "When someone says, \"I want a programming language in which I need only say what I want done,\" give him a lollipop. ",
+		"author": "Alan Perlis"
+	},
+	{
+		"id": 23,
+		"quote": "Computers are good at following instructions, but not at reading your mind. ",
+		"author": "Donald Knuth"
+	},
+	{
+		"id": 24,
+		"quote": "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else. ",
+		"author": "Eagleson's law"
+	},
+	{
+		"id": 25,
+		"quote": "Talk is cheap. Show me the code.",
+		"author": "Linus Torvalds"
+	},
+	{
+		"id": 26,
+		"quote": "That's the thing about people who think they hate computers. What they really hate is lousy programmers.",
+		"author": "Larry Niven"
+	},
+	{
+		"id": 27,
+		"quote": "Punishments include such things as flashbacks, flooding of unbearable emotions, painful body memories, flooding of memories in which the survivor perpetrated against others, self-harm, and suicide attempts.",
+		"author": "Alison Miller"
+	},
+	{
+		"id": 28,
+		"quote": "You've baked a really lovely cake, but then you've used dog shit for frosting.",
+		"author": "Steve Jobs"
+	},
+	{
+		"id": 29,
+		"quote": "The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.",
+		"author": "Donald Ervin Knuth"
+	},
+	{
+		"id": 30,
+		"quote": "Give a man a program, frustrate him for a day.\nTeach a man to program, frustrate him for a lifetime.",
+		"author": "Waseem Latif"
+	},
+	{
+		"id": 31,
+		"quote": "I'm not a great programmer; I'm just a good programmer with great habits.",
+		"author": "Kent Beck"
+	},
+	{
+		"id": 32,
+		"quote": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+		"author": "Brian W. Kernighan"
+	},
+	{
+		"id": 33,
+		"quote": "When they first built the University of California at Irvine they just put the buildings in. They did not put any sidewalks, they just planted grass. The next year, they came back and put the sidewalks where the trails were in the grass. Perl is just that kind of language. It is not designed from first principles. Perl is those sidewalks in the grass.",
+		"author": "Larry Wall"
+	},
+	{
+		"id": 34,
+		"quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+		"author": "Alan J. Perlis"
+	},
+	{
+		"id": 35,
+		"quote": "On two occasions, I have been asked [by members of Parliament], 'Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' I am not able to rightly apprehend the kind of confusion of ideas that could provoke such a question.",
+		"author": "Charles Babbage"
+	},
+	{
+		"id": 36,
+		"quote": "Perl – The only language that looks the same before and after RSA encryption.",
+		"author": "Keith Bostic"
+	},
+	{
+		"id": 37,
+		"quote": "The most disastrous thing that you can ever learn is your first programming language.",
+		"author": "Alan Kay"
+	},
+	{
+		"id": 38,
+		"quote": "A computer is like a violin. You can imagine a novice trying ﬁrst a phonograph and then a violin. The latter, he says, sounds terrible. That is the argument we have heard from our humanists and most of our computer scientists. Computer programs are good, they say, for particular purposes, but they aren’t ﬂexible. Neither is a violin, or a typewriter, until you learn how to use it.",
+		"author": "Marvin Minsky"
+	},
+	{
+		"id": 39,
+		"quote": "I just think people have a lot of fiction. But, you know, I mean, the real story of Facebook is just that we've worked so hard for all this time. I mean, the real story is actually probably pretty boring, right? I mean, we just sat at our computers for six years and coded.",
+		"author": "Mark Zuckerberg"
+	},
+	{
+		"id": 40,
+		"quote": "Considering the current sad state of our computer programs, software development is clearly still a black art, and cannot yet be called an engineering discipline.",
+		"author": "Bill Clinton"
+	},
+	{
+		"id": 41,
+		"quote": "Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches.",
+		"author": "Paul Graham"
+	},
+	{
+		"id": 42,
+		"quote": "Nothing is impossible, the word itself says 'I'm possible'!",
+		"author": "Audrey Hepburn"
+	},
+	{
+		"id": 43,
+		"quote": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+		"author": "John F. Kennedy"
+	},
+	{
+		"id": 44,
+		"quote": "The only way to do great work is to love what you do.",
+		"author": "Steve Jobs"
+	},
+	{
+		"id": 45,
+		"quote": "The best preparation for tomorrow is doing your best today.",
+		"author": "H. Jackson Brown, Jr."
+	},
+	{
+		"id": 46,
+		"quote": "Computer is not a device anymore. It is an extension of your mind and your gateway to other people.",
+		"author": "Mark Shuttleworth"
+	},
+	{
+		"id": 47,
+		"quote": "In the one and only true way. The object-oriented version of 'Spaghetti code' is, of course, 'Lasagna code'. (Too many layers).",
+		"author": "Roberto Waltman"
+	},
+	{
+		"id": 48,
+		"quote": "Put your heart, mind, and soul into even your smallest acts. This is the secret of success.",
+		"author": "Swami Sivananda"
+	},
+	{
+		"id": 49,
+		"quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+		"author": "Helen Keller"
+	},
+	{
+		"id": 50,
+		"quote": "Keep your face always toward the sunshine - and shadows will fall behind you.",
+		"author": "Walt Whitman"
+	}
+]

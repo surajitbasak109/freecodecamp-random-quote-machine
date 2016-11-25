@@ -1,0 +1,85 @@
+.hidden-message {
+    display: none;
+    visibility: hidden;
+}
+
+.modal-wrapper {
+    background: rgba(22, 27, 31, 0.72);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 1000;
+    -webkit-transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+    transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+
+.modal-container {
+    max-width: 700px;
+    border-radius: 6px;
+    position: relative;
+    padding: 2.4rem;
+    background: #08090a;
+    color: #fff;
+    background-clip: padding-box;
+    box-shadow: 0 12px 15px 0 rgba(0,0,0,0.25);
+    -webkit-transition: all 0.25s cubic-bezier(0.23, 1, 0.32, 1);
+    transition: all 0.25s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.modal-header h2 {
+    font-family: 'Lobster Two', cursive;
+    font-size: 3em;
+}
+blockquote {
+  background: #202325;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+.blockquote-footer {
+  margin-top: 10px;
+}
+
+button#twitBtn>i {
+    font-size: 20px;
+    line-height: 40px;
+}
+
+button#twitBtn {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    border: none;
+}
+
+div#quote_wrapper {
+    background: #202325;
+}
+
+.modal-header {
+    border: none;
+}
+
+.modal-footer {
+    border: none;
+}

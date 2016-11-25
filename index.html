@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="main.css">
+    <title>Random Quote Machine</title>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="modal-wrapper">
+                <div class="modal-container">
+                    <div class="modal-header text-center">
+                        <h2>Random Quote Machine</h2></div>
+                    <div class="modal-body">
+                        <div id="quote_wrapper" class="col-xs-12 well message"></div>
+                    </div>
+                    <div class="modal-footer">
+                        <div class="col-sm-2 text-left">
+                            <button id="twitBtn" class="btn btn-success"><i class="fa fa-twitter"></i></button>
+                        </div>
+                        <div class="col-sm-10">
+                            <button id="rewind" class="btn btn-default">Previous <i class="fa fa-backward"></i></button>
+                            <button id="shuffle" class="btn btn-primary">Shuffle <i class="fa fa-random"></i></button>
+                            <buttoon id="forward" class="btn btn-default">Next <i class="fa fa-forward"></i></buttoon>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- .hidden-message -->
+        <div class="hidden-message"> </div>
+        <!-- /.hidden-message -->
+    </div>
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
